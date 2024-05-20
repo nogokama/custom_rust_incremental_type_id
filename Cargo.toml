@@ -1,0 +1,5 @@
+[workspace]
+members = ["mytypeid_macro", "mytypeid_trait", "other_lib", "test_usage"]
+resolver = "2"
+
+
